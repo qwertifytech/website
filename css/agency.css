@@ -34,12 +34,13 @@ section {
     margin-top: 0;
     margin-bottom: 15px; }
   section h3.section-subheading {
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 400;
-    font-style: italic;
-    margin-bottom: 75px;
+    /*font-style: italic;*/
+    /*margin-bottom: 75px;*/
     text-transform: none;
-    font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    text-align: justify;
+    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
 
 @media (min-width: 768px) {
   section {
